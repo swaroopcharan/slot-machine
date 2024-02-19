@@ -4,7 +4,7 @@ from slot_machine import get_spin
 from slot_machine import print_slot_machine
 from winnings import check_winnings
 
-ROWS = 3
+ROWS = 3  # the rows of the slot machine, can be changed
 COLS = 3
 
 symbol_count = {
