@@ -57,5 +57,4 @@ Your final balance is $85.0
 
 ## Credits
 
-This code was written by Swaroop Charan Pasala.
-Thank you for visiting this far. Hope you like my work.
+Thank you for visiting this far. Hope you like our work. Swaroop charan - Meghana Palanki.
